@@ -1,0 +1,11 @@
+.div-tooltip {
+    opacity: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #444444;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin: 20px;
+    z-index: 99999;
+}
